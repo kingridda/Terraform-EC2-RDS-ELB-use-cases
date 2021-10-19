@@ -1,6 +1,6 @@
 # Terraform: some EC2 RDS ELB use cases
 
-Demonstrations on using an Nginx server with EC2, RDS database and Loadbalancers.
+Demonstrations using Terraform: deploy an Nginx server with EC2, RDS database and Loadbalancers.
 
 ## 01-nginx-server-on-EC2
 
