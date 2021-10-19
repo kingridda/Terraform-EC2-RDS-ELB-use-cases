@@ -13,3 +13,5 @@ Infrastructure of an Nginx server on EC2 a costumized VPC and a load balancer
 ## 03-nginx-server-EC2-RDS-ELB
 
 Infrastructure of an Nginx server on EC2 a costumized VPC, a load balancer and an RDS MySQL Database integrated.
+
+PS: Check every use case's README for more details :)
